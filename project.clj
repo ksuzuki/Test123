@@ -1,3 +1,3 @@
-(defproject zzz999Test "0.0.1-SNAPSHOT"
-  :description "zzz999Test"
+(defproject Test123 "0.0.1-SNAPSHOT"
+  :description "Test123"
   :dependencies [[org.clojure/clojure "1.2.0"]])
